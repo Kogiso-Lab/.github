@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[研究室ホームページ]([http://qiita.com "Qiita Home"](https://www.omu.ac.jp/eng/kogiso/))
+
+
 <!--
 
 **Here are some ideas to get you started:**
