@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[研究室ホームページ]([http://qiita.com "Qiita Home"](https://www.omu.ac.jp/eng/kogiso/))
+[研究室ホームページ](https://www.omu.ac.jp/eng/kogiso/)
 
 
 <!--
